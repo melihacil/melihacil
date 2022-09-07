@@ -3,7 +3,7 @@
 </p>
 🔭 I’m currently working on Unity and Unreal Engine projects  
 🌱 I’m currently learning Game Development and C++  
-😄 Pronouns: Walter Hartwell White
+😄 Pronouns: Walter Hartwell White  
 <!--
 **melihacil/melihacil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+  
 <h2 align='center'>Visitor Count</h2>
 <p align = 'center'><img src="https://profile-counter.glitch.me/melihacil/count.svg"/></p>
