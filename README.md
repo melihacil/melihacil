@@ -1,6 +1,4 @@
-### Hi there 👋
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&center=true&vCenter=true&width=435&lines=Hello There!; I am game dev!)](https://git.io/typing-svg)
 <a href="url"><img src="https://github.com/melihacil/melihacil/blob/8e425ca22861118f01ba2962c60c493383274ca5/FSa1V5QVUAEAAoC.jpg" align='center' height="256" width="256" ></a>  
 
 🔭 I’m currently working on Unity and Unreal Engine projects  
