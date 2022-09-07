@@ -4,7 +4,7 @@
 -🔭 I’m currently working on Unity and Unreal Engine projects  
 
 
--🌱 I’m currently learning Game Development and C++  
+-🌱 I’m currently learning Game Development and C++
 
 
 -😄 Pronouns: Walter Hartwell White  
